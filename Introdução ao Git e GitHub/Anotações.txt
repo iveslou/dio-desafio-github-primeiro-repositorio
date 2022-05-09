@@ -1,0 +1,5 @@
+# Anotações
+Anotações realizadas durante o estudo e desenvolvimento prático de repositórios no GitHub para a realização do Desafio de Projeto da DIO.
+## Links Úteis
+ - [Download do Git](https://git-scm.com/downloads)
+ - [Sintase Básica Markdown](https://www.markdownguide.org/basic-syntax/)
